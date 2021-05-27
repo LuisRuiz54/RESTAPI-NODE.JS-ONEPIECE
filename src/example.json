@@ -1,0 +1,32 @@
+[
+    {
+        "id" : "1",
+        "nome" : "Zoro",
+        "Cargo" : "ViceCapitão",
+        "Habilidade" : "Espadachin"
+    },
+    {
+        "id" : "2",
+        "nome" : "Nami",
+        "Cargo" : "Navegante",
+        "Habilidade" : "control do clima"
+    },
+    {
+        "id" : "3",
+        "nome" : "Sanji",
+        "Cargo" : "Cozinheiro",
+        "Habilidade" : "Pernas de fogo"
+    },
+    {
+        "id" : "4",
+        "nome" : "Usopp",
+        "Cargo" : "tirador",
+        "Habilidade" : "francotirar"
+    },
+    {
+        "id" : "5",
+        "nome" : "Chopper",
+        "Cargo" : "Doctor",
+        "Habilidade" : "Rumble Ball"
+    }
+]
