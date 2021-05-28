@@ -28,5 +28,29 @@
         "nome" : "Chopper",
         "Cargo" : "Doctor",
         "Habilidade" : "Rumble Ball"
+    },
+    {
+        "id" : "6",
+        "nome" : "Brook",
+        "Cargo" : "Musico",
+        "Habilidade" : "Espadachin"
+    },
+    {
+        "id" : "7",
+        "nome" : "Robin",
+        "Cargo" : "Arqueologa",
+        "Habilidade" : "Hana Hana no mi"
+    },
+    {
+        "id" : "8",
+        "nome" : "Franky",
+        "Cargo" : "Carpinteiro",
+        "Habilidade" : "Lutador"
+    },
+    {
+        "id" : "9",
+        "nome" : "jinbe",
+        "Cargo" : "Timoneiro",
+        "Habilidade" : "Gyojin Karate "
     }
 ]
